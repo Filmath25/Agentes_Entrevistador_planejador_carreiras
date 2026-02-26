@@ -9,7 +9,8 @@ O sistema foi desenhado para simular um fluxo de consultoria real, utilizando t�
 ## 🤖 Os Agentes
 
 1.  **Agente 1 (O Entrevistador):** Especialista em extração de perfil. Utiliza uma entrevista estruturada de 7 perguntas para avaliar motivações, stack técnica e objetivos (Ex: Transição de carreira para o setor bancário).
-2.  **Agente 2 (O Estrategista):** Especialista em educação e carreira. Recebe os dados do Agente 1 e gera um cronograma híbrido (Teoria + Prática) com foco em eficiência.
+   
+3.  **Agente 2 (O Estrategista):** Especialista em educação e carreira. Recebe os dados do Agente 1 e gera um cronograma híbrido (Teoria + Prática) com foco em eficiência.
 
 ## 🛠️ Tecnologias e Técnicas Aplicadas
 
