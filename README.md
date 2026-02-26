@@ -34,6 +34,6 @@ Os prompts estruturados estão disponíveis na pasta `/prompts`. Eles podem ser 
 - Google Gemini 1.5 Pro
 
 ---
-**Autor:** [Seu Nome]
+**Autor:** Filipe Cabral
 *Atualmente em transição para Tech/Analytics | Especialista em Processos Bancários*
 
